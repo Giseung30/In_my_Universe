@@ -1,5 +1,11 @@
 ## In my Universe
 
+<div align="center">
+  <a href="https://youtu.be/QH46O-MhlWc"> 
+    <img width="30%" height="30%" src="https://user-images.githubusercontent.com/60832219/209007827-50c8e0df-2957-4191-91e5-34ab63bb7dd1.png"/>
+  </a>
+</div>
+
 + **프로젝트 소개**
   + 자신의 인간관계를 되돌아볼 수 있는 **성장형 SNS 애플리케이션**을 개발한다.
   + 오랫동안 함께 지낸 사람의 행성은 점차 풍요로운 형태를 갖추게 되는 시각적 요소를 가미한다.
