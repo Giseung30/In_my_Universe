@@ -29,8 +29,21 @@
       2. **UIController.cs** : 모든 UI에서 발생한 Event를 받아 Commander 스크립트에 전달하는 역할을 하고, 화면이 전환될 때마다 행성의 이름, 레벨, 개수, 방문 날짜 등을 텍스트와 이미지로 표시한다.
       3. **DataBase.cs** : LitJson 플러그인을 읽어서 데이터베이스 파일이 존재하지 않으면 파일을 생성하고, 데이터베이스에서 값을 읽어오거나 새로운 행성 추가, 행성 삭제, 방문 일자 등록 등의 DB 갱신을 담당한다. 또한, 안드로이드의 데이터베이스 경로를 PC와 동일하게 설정한다.
   - **설계도**
+    <div align="center">
+      <img width="75%" height="75%" src="https://user-images.githubusercontent.com/60832219/209004774-b86de5c5-794e-41ca-ac6c-232c78c747c7.png"/>
+    </div>
     
 + **프로젝트 평가**
   + 꽤 많은 인원이 함께 수행하는 프로젝트였기 때문에 의사소통이 매우 중요했다. 그러나 개발 초기에 기획한 내용을 잘못 이해해서 시간을 허비했었다. 이후에는 매일 팀원들과 개발 점검하며 동일한 사건이 발생하지 않도록 노력했다. 본 과제는 기존에 몰랐던 기법들을 학습하는 계기가 되었을 뿐만 아니라 **의사소통의 중요성**도 깨닫게 해주었다.
   + 주어진 기간 내에 시제품을 만들어내는 데에 성공했고, 시연을 무사히 마무리했다. 담당 교수님께서는 시제품 완성도를 굉장히 높게 평가해주셨으며, 본 강의는 A+였다.
   + 프로젝트의 기여도를 스스로 평가하자면 **30**%이다. 팀장으로써 구성원들의 역할을 분담하고, 프로젝트 변경 사항을 최종적으로 적용하면서 잘 이끌었다고 생각한다.
+
+- **스크린샷**
+    <div align="center">
+      <img width="35%" height="35%" src="https://user-images.githubusercontent.com/60832219/209004482-cf3cad57-bebe-48b6-935c-6532d75e30b8.png"/>
+      <img width="35%" height="35%" src="https://user-images.githubusercontent.com/60832219/209004487-33096dc3-d22c-4b11-b0e6-cfd8281bd542.png"/>
+      <img width="35%" height="35%" src="https://user-images.githubusercontent.com/60832219/209004491-bb345327-b187-4efd-9fbf-d8b07fe4544e.png"/>
+      <img width="35%" height="35%" src="https://user-images.githubusercontent.com/60832219/209004493-5a6a1797-929a-400d-afc0-aa380cc50a1c.png"/>
+      <img width="35%" height="35%" src="https://user-images.githubusercontent.com/60832219/209004494-30184dff-9e3e-4ee9-bd20-c27c12bdfcf5.png"/>
+      <img width="35%" height="35%" src="https://user-images.githubusercontent.com/60832219/209004496-6012de3c-5a20-4863-bf79-c1a79e88a104.png"/>
+    </div>
